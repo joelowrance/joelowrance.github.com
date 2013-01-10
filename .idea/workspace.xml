@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89a1b150-bce3-43b3-a647-372f10c7125f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <ignored path="joelowrance.iws" />
@@ -35,7 +34,7 @@
       <file leaf-file-name="index2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="0" selection-start="4962" selection-end="4962" vertical-scroll-proportion="0.89285713">
+            <state line="59" column="142" selection-start="2552" selection-end="2552" vertical-scroll-proportion="0.53361344">
               <folding />
             </state>
           </provider>
@@ -198,7 +197,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="1176" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -275,7 +274,7 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="26" />
+      <option name="time" value="59" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -379,7 +378,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="0" selection-start="4962" selection-end="4962" vertical-scroll-proportion="0.89285713">
+        <state line="59" column="142" selection-start="2552" selection-end="2552" vertical-scroll-proportion="0.53361344">
           <folding />
         </state>
       </provider>
