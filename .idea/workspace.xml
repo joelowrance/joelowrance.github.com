@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="89a1b150-bce3-43b3-a647-372f10c7125f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/styles.css" afterPath="$PROJECT_DIR$/stylesheets/styles.css" />
     </list>
     <ignored path="joelowrance.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +43,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.07396871">
+            <state line="137" column="0" selection-start="6506" selection-end="6506" vertical-scroll-proportion="0.44523472">
               <folding />
             </state>
           </provider>
@@ -66,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/stylesheets/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -355,7 +354,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.07396871">
+        <state line="137" column="0" selection-start="6506" selection-end="6506" vertical-scroll-proportion="0.44523472">
           <folding />
         </state>
       </provider>
